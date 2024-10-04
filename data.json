@@ -1,0 +1,32 @@
+{
+  "account": [
+    {
+      "id": "",
+      "acno": "",
+      "pin": "",
+      "name": "",
+      "fname": "",
+      "phone": "",
+      "email": "",
+      "gender": "",
+      "city": "",
+      "country": "",
+      "state": "",
+      "amount": ""
+    },
+    {
+      "id": "002e",
+      "acno": "SBI102",
+      "pin": "111",
+      "name": "md",
+      "fname": "de",
+      "phone": "132",
+      "email": "md@gmail.com",
+      "gender": "female",
+      "city": "hsp",
+      "country": "india",
+      "state": "punjab",
+      "amount": 4300
+    }
+  ]
+}
